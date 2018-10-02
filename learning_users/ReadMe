@@ -1,0 +1,9 @@
+This project's purpose was to practice registering a user and allowing them to log in or log out of the website.
+
+Technologies used:
+
+Front End:
+-HTML, CSS, BOOTSTRAP 3
+
+Back End:
+-Python with Django
